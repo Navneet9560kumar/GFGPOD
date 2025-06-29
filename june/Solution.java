@@ -33,4 +33,4 @@ public class Solution {
         System.out.println(result); // Output: [1, 3, 6]
     }
 }
- git commit -m "GFG-POD-28 "
+ 
