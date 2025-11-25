@@ -3,6 +3,8 @@ package sept;
 public class LargestNumberinOneSwap_10 {
 
 // to ham pehle ham max nekal lenage ok ham fi ruske baad ham isko dekha  lenge  to ha  aase kase karege fir socho yr 'max ' valuse aa gayi hia uske baad ham 
+
+// knlkjnkjb;jkkj;kjn;l
          
 
 
