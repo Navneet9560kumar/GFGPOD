@@ -17,7 +17,7 @@ public class DEC_22POD {
             for (int j = 0; j < n; j++) {
                 if (arr[i][j] == 1) {
                     count++;
-                }
+                }      
             }
 
             if (count > maxCount) {
