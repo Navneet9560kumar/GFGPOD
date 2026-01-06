@@ -39,6 +39,7 @@ public static int maxSubarrayXOR(int[] arr, int k) {
 }
 
 
+
       public static void main(String[] args) {
             int[]arr= {2,5,8,1,1,3};
             int k = 3;
