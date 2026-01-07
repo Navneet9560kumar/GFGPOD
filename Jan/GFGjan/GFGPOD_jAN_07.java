@@ -39,7 +39,7 @@ public class GFGPOD_jAN_07 {
         // element jo window se bahar ja raha hai
         int out = arr[i - k];
         map.put(out, map.get(out) - 1);
-        if (map.get(out) == 0) {
+        if (map.get(out) == 0) {ddd
             map.remove(out);
         }
 
