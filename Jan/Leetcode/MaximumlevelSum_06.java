@@ -20,7 +20,7 @@ public class MaximumlevelSum_06 {
       
   public static List<Integer> levelSums(TreeNode root) {
     List<Integer> sums = new ArrayList<>();
-    if (root == null) return sums;
+    if (root == null) return sums; 
 
     Queue<TreeNode> q = new LinkedList<>();
     q.add(root);
